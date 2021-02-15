@@ -1,0 +1,7 @@
+Kelvin to degrees Celsius conversion
+C = K-273
+Or C = K-273.15
+For example, how many degrees Celsius is 298 Kelvin?
+C = K-273
+C = 298-273
+C = 25

@@ -1,0 +1,6 @@
+Degrees Fahrenheit to Kelvin conversion
+K = 5/9 (F - 32) + 273.15
+For example, the temperature is 98.6 degrees Fahrenheit. Equal to how many Kelvin
+K = 5/9 (F - 32) + 273.15
+K = 5/9 (98.6-32) + 273.15
+K = 310.15

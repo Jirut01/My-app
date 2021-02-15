@@ -1,0 +1,7 @@
+Celsius to Fahrenheit conversion
+F = 9/5 (C) + 32
+Or F = 1.80 (C) + 32
+For example, how many degrees Fahrenheit is 37 degrees Celsius?
+F = 9/5 (C) + 32
+F = 9/5 (37) +32
+F = 98.6

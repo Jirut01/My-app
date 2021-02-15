@@ -1,0 +1,7 @@
+Kelvin to degrees Fahrenheit conversion
+F = 9/5 (K - 273) + 32
+Or F = 1.8 (K - 273) + 32
+For example, how many degrees Fahrenheit is 298?
+F = 9/5 (K - 273) + 32
+F = 9/5 (298-273) + 32
+F = 77

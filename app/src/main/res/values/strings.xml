@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="start">START</string>
+    <string name="ball">Mr.Jirut Sangchay 6104101314</string>
+    <string name="end">END</string>
+    <string name="select">SELECT</string>
+    <string name="cf">C->F</string>
+    <string name="ck">C->K</string>
+    <string name="fc">F->C</string>
+    <string name="fk">F->K</string>
+    <string name="kc">K->C</string>
+    <string name="kf">K->F</string>
+    <string name="c"> C is degree Celsius</string>
+    <string name="f">F is Fahrenheit</string>
+    <string name="k">K is Kelvin</string>
+    <string name="a">Mute</string>
+    <string name="headapp">Calculation data</string>
+</resources>

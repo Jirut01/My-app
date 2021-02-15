@@ -1,0 +1,6 @@
+Celsius to Kelvin conversion
+K = C + 273
+For example, how many Kelvin is 37 degrees Celsius?
+K = C + 273
+K = 37 + 273
+K = 310
