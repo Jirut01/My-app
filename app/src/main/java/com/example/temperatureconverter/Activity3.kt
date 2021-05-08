@@ -9,8 +9,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import org.w3c.dom.Text
-import java.lang.NullPointerException
-import java.nio.charset.Charset
+
 
 class Activity3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
